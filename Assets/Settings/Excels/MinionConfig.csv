@@ -1,0 +1,10 @@
+UnitName,Level,Hp,Attack,MoveSpeed,UpgradeCost,UnitCount,ModelRadius,SpawnCost,KillGold,ProjectileScale
+Berserker,0,300,10,2,10,20,3,10,3,1
+Berserker,1,400,13,2.5,20,13,4,15,4,1.2
+Berserker,2,530,15,3,30,40,5,20,5,1.5
+Archer,0,130,15,2,15,60,0.5,10,3,1
+Archer,1,180,20,2.5,25,50,1,15,4,2
+Archer,2,400,28,3,35,9,1.5,20,5,3
+Assassin,0,150,19,3.5,30,10,0.5,10,3,1
+Assassin,1,200,26,4.5,40,20,3,20,4,1.2
+Assassin,2,400,33,5.8,50,40,5,40,5,1.5

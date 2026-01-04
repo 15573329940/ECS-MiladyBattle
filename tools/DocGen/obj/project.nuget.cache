@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TRrYd1IJVMk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zph\\Desktop\\Ecs2\\tools\\DocGen\\DocGen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zph\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.11.0\\microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",
+    "C:\\Users\\zph\\.nuget\\packages\\microsoft.codeanalysis.common\\5.0.0\\microsoft.codeanalysis.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\zph\\.nuget\\packages\\microsoft.codeanalysis.csharp\\5.0.0\\microsoft.codeanalysis.csharp.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
