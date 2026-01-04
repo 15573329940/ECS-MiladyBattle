@@ -1,7 +1,10 @@
- 特别声明
+ 特别声明：
+ 
 仅供学习交流：本工程仅用于个人技术研究与学习，请勿随意外传，严禁用于任何商业用途。
+
 致谢与版权：美术资源与核心架构思路参考自 Turbo Makes Games 教程。如涉及版权问题，请联系作者删除。
-技术演示视频：https://www.bilibili.com/video/BV14CicBzEbg/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=c1cc9ec3bade3bb5b7bf2209d5ea13d5
+
+技术演示视频：https://www.bilibili.com/video/BV14CicBzEbg/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=c1cc9ec3bade3bb5b7bf2209d5ea13d5。
 
  核心技术要点
 环境版本：Unity 6000.2.12f1。
